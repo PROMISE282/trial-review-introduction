@@ -56,6 +56,16 @@
 
 Claude Code 탭의 플러그인 화면에서 마켓플레이스로 `PROMISE282/trial-review`를 추가한 뒤 `trial-review`를 설치합니다.
 
+### skills CLI (Claude Code, Codex, Cursor 등)
+
+[skills.sh](https://skills.sh)의 CLI로 스킬만 설치할 수도 있습니다.
+
+```
+npx skills add PROMISE282/trial-review
+```
+
+스킬 폴더(`SKILL.md`, `references/`)만 복사되며 `/trial-review:trial-review` 같은 플러그인 명령은 생기지 않습니다. "재판 형식으로 판단해줘"처럼 말하면 설명문으로 자동 호출됩니다.
+
 ### 업데이트
 
 `/plugin` 화면에서 마켓플레이스를 업데이트한 뒤 플러그인을 갱신합니다.
