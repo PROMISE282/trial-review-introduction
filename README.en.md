@@ -53,7 +53,7 @@ It also checks conflicts, overlaps and synergies when agendas are applied togeth
 /plugin install trial-review@promise282-trial-review
 ```
 
-> The commands above are for the free edition. For the Pro edition (`trial-review-pro`), see [Free edition and Pro edition](#free-edition-and-pro-edition).
+> The free edition currently provides every feature. See [Free edition and Pro edition](#free-edition-and-pro-edition) for details.
 
 ### Claude Desktop
 
@@ -129,17 +129,13 @@ The jury is formed by the type of issue the agenda raises.
 
 ## Free edition and Pro edition
 
-| | Pro edition | Free edition |
-| --- | --- | --- |
-| Jurors | Up to 8 per agenda, with job-role and target-user personas selected | Fixed jury of 5 |
-| Legal jurisdiction | Korea by default; adds jurisdictions on signals | Limited (assumes Korea, no Legal role) |
-| Evaluation | First round + second round after applying | First round (text) only |
-| Input | Conversation, plus reading code repositories and files | Only agenda text pasted into the conversation |
-| Local changes | Temporary application in a working copy; applied after approval | Does not read or change files |
-| Many agendas | Summary format; handles 25 or more | Up to 5 agendas |
+To collect user evaluations more smoothly, the **free edition is currently unrestricted and offers the same full feature set as the Pro edition.** Install it from [PROMISE282/trial-review](https://github.com/PROMISE282/trial-review).
 
-- **Free edition:** Install it from [PROMISE282/trial-review](https://github.com/PROMISE282/trial-review). The restrictions are set by the skill's instructions.
-- **Pro edition (paid, plugin name `trial-review-pro`):** Currently kept private. This document will say how to get it once the distribution method is decided. Its name differs from the free edition, so installing both does not cause a conflict.
+- Up to 8 jurors per agenda, with job-role and target-user personas selected. Korean legal jurisdiction is the default, and others are added when there are signals.
+- Both the first round and the second round after applying are run, and it can also read code repositories and files and apply changes temporarily in a working copy.
+- With many agendas it uses a summary format and handles 25 or more.
+
+> **Advance notice:** Once enough user evaluations have been gathered and the plugin has been improved, an update that limits its capabilities may be released without advance notice. How it would be limited has not been decided yet.
 
 ## Limitations
 
