@@ -33,7 +33,6 @@ Conclusion: 1 adoption candidate, 0 conditional, 2 held/rejected, 0 undecidable 
 - [Free edition and Pro edition](#free-edition-and-pro-edition)
 - [Limitations](#limitations)
 - [Feedback](#feedback)
-- [License](#license)
 
 ## How it works
 
@@ -152,7 +151,3 @@ The jury is formed by the type of issue the agenda raises.
 ## Feedback
 
 If you find a bug, an odd verdict, or a job role you would like added, please open an issue in this repository. Pasting the actual verdict output makes it easier to find the cause.
-
-## License
-
-MIT
