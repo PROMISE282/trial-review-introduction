@@ -150,4 +150,4 @@ The jury is formed by the type of issue the agenda raises.
 
 ## Feedback
 
-If you find a bug, an odd verdict, or a job role you would like added, please open an issue in this repository. Pasting the actual verdict output makes it easier to find the cause.
+If you find a bug, an odd verdict, or a job role you would like added, please open an issue in [GitHub Issues](https://github.com/PROMISE282/trial-review-introduction/issues) of this repository or email promise211217@gmail.com. Pasting the actual verdict output makes it easier to find the cause.

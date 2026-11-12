@@ -148,4 +148,4 @@ npx skills add PROMISE282/trial-review
 
 ## 피드백
 
-버그, 어색한 판정, 추가했으면 하는 직무가 있으면 이 저장소의 Issues에 남겨 주세요. 실제 판정 출력을 붙여 주시면 원인을 찾기 쉽습니다.
+버그, 어색한 판정, 추가했으면 하는 직무가 있으면 이 저장소의 [GitHub Issues](https://github.com/PROMISE282/trial-review-introduction/issues)나 promise211217@gmail.com으로 보내 주세요. 실제 판정 출력을 붙여 주시면 원인을 찾기 쉽습니다.
